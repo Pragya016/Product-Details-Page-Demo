@@ -1,0 +1,11 @@
+{
+  "name": "amazon-product-details-page-demo",
+  "version": "1.0.0",
+  "description": "This project provides a detailed view of a simulated Amazon product page using HTML, CSS, Bootstrap, and JavaScript. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pragya saxena",
+  "license": "ISC"
+}
